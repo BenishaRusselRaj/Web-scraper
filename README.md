@@ -6,9 +6,9 @@ A project to implement web scraping.
 - Care must be taken that the website does not have any restrictions against scraping.
 - Website scraped in this code is:
 
-  '''
-  "https://www.scrapethissite.com/pages/simple/"
-  '''
+  ```
+  https://www.scrapethissite.com/pages/simple/
+  ```
 
 ### Reference Material
 https://stackoverflow.com/questions/41214965/python-3-5-urllib-request-403-forbidden-error?noredirect=1&lq=1
